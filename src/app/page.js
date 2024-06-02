@@ -90,6 +90,11 @@ export default function Home() {
           </p>
         </a>
       </div>
+
+      <div>
+        <h2>Test Message</h2>
+        <p>This is a test message.</p>
+      </div>
     </main>
   );
 }
